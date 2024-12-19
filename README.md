@@ -9,7 +9,7 @@ poetry add pandas xlsxwriter
  В директории, где находится файл smeta.py, выполните команду:
 
  ```
- python smeta.py
+ python main.py
  ```
 
 
